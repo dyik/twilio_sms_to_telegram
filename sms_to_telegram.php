@@ -3,10 +3,9 @@
  * DON'T FORGET TO CONFIGURE!
  * See Readme.md
  */
-define('CHAT_ID', 0);
-//bot @username
-define('BOT_NAME', 'username');
-define('API_KEY', '');
+define('CHAT_ID', '843860963');
+//bot @username define('BOT_NAME', '@yeeckhack_bot');
+define('API_KEY', '1034803622:AAG7erncR1qOR6ITgLc30FMcCcPFuJkbNk0');
 
 require __DIR__ . '/vendor/autoload.php';
 use Longman\TelegramBot\Request;
